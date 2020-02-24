@@ -1,12 +1,11 @@
-# Warning: do not edit
-# --------------------
-# This is a generated file and will be overwritten
-
 @app
-begin-app
+goat-sj4
+
+@static
 
 @http
 get /
+get /edwin
 
 @tables
 data
